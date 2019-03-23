@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/wordpress/wp-content/":{"guestpath":"/var/www/html/wordpress/wp-content","hostpath":"/Users/vampaynani/Sites/Coderoom/vagrant_wordpress/wp-content","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vampaynani/Sites/Coderoom/vagrant_wordpress/vagrant","disabled":false,"__vagrantfile":true}}}
